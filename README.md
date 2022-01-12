@@ -99,10 +99,13 @@ if result>=0:
 else:
     print("Element not found")
 ~~~
+
+## Sample Input and Output
+![output](./img/Sample.png)
 ## Output:
 
-![output](1.png)
-![output](2.png)
-![output](3.png)
+![output](./img/1.png)
+![output](./img/2.png)
+![output](./img/3.png)
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
